@@ -1,0 +1,29 @@
+div,nav {
+  /* border: 1px solid red; */
+  padding: 5px;
+}
+
+body {
+  font-family: sans-serif;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+}
+
+.navbar {
+  display: flex;
+  background-color: #9ea9b1; /* Red=FF Green=FF Blue=FF */
+  color: #FFFFFF;
+}
+.info {
+  width: 50%;
+  max-width: 400px;
+}
+.header-image {
+  border: 1px solid red;
+}
+img {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+  max-width: 600px;
+}
